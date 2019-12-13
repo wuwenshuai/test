@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0db05430-5070-4eff-aa88-eaa24ecc4e65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/观察者模式/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/观察者模式/Observerable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/观察者模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/观察者模式/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/观察者模式/WechatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/原理系列/入门案例/HellWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/beanFactoryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/beanFactoryTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/beanFactoryTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/beanFactoryTest.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.spring.StreamDemo" />
+  <component name="RunManager" selected="Application.HellWord">
+    <configuration name="HellWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.原理系列.入门案例.HellWord" />
       <module name="test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.spring.*" />
+          <option name="PATTERN" value="com.carry.原理系列.入门案例.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HellWord" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestProducter" />
         <item itemvalue="Application.TestCousmer" />
-        <item itemvalue="Application.StreamDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -188,7 +181,16 @@
       <workItem from="1575882902883" duration="424000" />
       <workItem from="1575883442656" duration="6422000" />
       <workItem from="1576055067523" duration="10527000" />
+      <workItem from="1576227400694" duration="2631000" />
     </task>
+    <task id="LOCAL-00001" summary="观察者设计模式">
+      <created>1576227436745</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576227436745</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,11 +201,17 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="观察者设计模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="观察者设计模式" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
