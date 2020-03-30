@@ -2,8 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0db05430-5070-4eff-aa88-eaa24ecc4e65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/原理系列/入门案例/HellWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/DemoTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/java8/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/java8/optional/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/beanutils/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/beanutils/UserBehaviorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/beanutils/UserBehaviorWebhookResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/MessageWrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/SynBannerMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/枚举/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/枚举/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/测试/OwnershipVerificationSettingDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/测试/SettingDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/测试/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/建造者模式/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/建造者模式/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/建造者模式/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/carry/设计模式/建造者模式/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carry/spring/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carry/spring/StreamDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/StreamDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/product/TestProducter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/product/TestProducter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carry/spring/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carry/spring/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/carry/原理系列/入门案例/HellWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/carry/原理系列/入门案例/HellWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DemoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/test1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/SpringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/SpringDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/StreamDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/TestDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/TestDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/auto/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/auto/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/kafka/consumer/TestCousmer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/kafka/consumer/TestCousmer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/kafka/product/TestProducter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/kafka/product/TestProducter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/pojo/Stu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/pojo/Stu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/carry/spring/postprocessor/UserPostProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/carry/spring/postprocessor/UserPostProcessor.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +60,12 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\MFG-\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\MFG-\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -47,6 +90,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -65,13 +109,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HellWord">
-    <configuration name="HellWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.原理系列.入门案例.HellWord" />
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.carry.spring.kafka.Demo" />
       <module name="test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.原理系列.入门案例.*" />
+          <option name="PATTERN" value="com.carry.spring.kafka.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,11 +124,11 @@
       </method>
     </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.设计模式.观察者模式.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.carry.java8.optional.Test" />
       <module name="test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.设计模式.观察者模式.*" />
+          <option name="PATTERN" value="com.carry.java8.optional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,11 +137,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.carry.spring.auto.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.carry.枚举.Test" />
       <module name="test1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.carry.spring.auto.*" />
+          <option name="PATTERN" value="com.carry.枚举.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HellWord" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestProducter" />
         <item itemvalue="Application.TestCousmer" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +225,28 @@
       <workItem from="1575882902883" duration="424000" />
       <workItem from="1575883442656" duration="6422000" />
       <workItem from="1576055067523" duration="10527000" />
-      <workItem from="1576227400694" duration="2631000" />
+      <workItem from="1576227400694" duration="3238000" />
+      <workItem from="1576653465226" duration="20000" />
+      <workItem from="1576724766703" duration="6014000" />
+      <workItem from="1576820800807" duration="4974000" />
+      <workItem from="1577339785653" duration="1104000" />
+      <workItem from="1577340899670" duration="1054000" />
+      <workItem from="1577341972052" duration="864000" />
+      <workItem from="1577444358885" duration="907000" />
+      <workItem from="1577949473511" duration="1824000" />
+      <workItem from="1578369057128" duration="8185000" />
+      <workItem from="1578564504344" duration="801000" />
+      <workItem from="1582532966520" duration="3373000" />
+      <workItem from="1582880079727" duration="2633000" />
+      <workItem from="1583215352616" duration="779000" />
+      <workItem from="1583478107824" duration="3009000" />
+      <workItem from="1583726168890" duration="8394000" />
+      <workItem from="1583922637375" duration="8871000" />
+      <workItem from="1584355968837" duration="1764000" />
+      <workItem from="1585020622163" duration="5699000" />
+      <workItem from="1585107830918" duration="252000" />
+      <workItem from="1585191775118" duration="2924000" />
+      <workItem from="1585546682140" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="观察者设计模式">
       <created>1576227436745</created>
@@ -190,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576227436745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix">
+      <created>1576231835281</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576231835281</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +283,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="观察者设计模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="观察者设计模式" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -281,6 +354,62 @@
           <url>jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.5.RELEASE/spring-beans-5.0.5.RELEASE-sources.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.java</url>
           <line>1063</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/product/TestProducter.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/spring/beanutils/Demo.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/设计模式/建造者模式/TestDemo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/java8/Test1.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/枚举/Test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/consumer/TestCousmer.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/consumer/TestCousmer.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/consumer/TestCousmer.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_221/src.zip!/java/util/List.java</url>
+          <line>283</line>
+          <properties class="java.util.List" method="containsAll">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/carry/spring/kafka/product/TestProducter.java</url>
+          <line>12</line>
+          <properties class="com.carry.spring.kafka.product.TestProducter" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

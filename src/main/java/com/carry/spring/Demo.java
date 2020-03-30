@@ -22,9 +22,8 @@ public class Demo {
 
 
         List<String> list = Arrays.asList("1","2");
-        StringBuilder stringBuilder = new StringBuilder();
+        /*  StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append(",\"goodType\":{\"$eq\":\"" + "PACKAGING" + "\"}");
-
         String productGroupQry = list.stream()//
                 .collect(Collectors.joining("\",\"", "\"scanResult\":{\"$in\":[\"", "\"]}"));
         stringBuilder.append(productGroupQry);
@@ -33,7 +32,7 @@ public class Demo {
         String formt = "\"$and\":[{\"$or\":[{%s},{\"goodType\": {\"$eq\": \"PACKING\"}}]}]";
 
         String format = String.format(formt, stringBuilder);
-        System.out.println(format);
+        System.out.println(format);*/
 
       /*  BeanFactory beanFactory
                 = new XmlBeanFactory(new ClassPathResource("beanFactoryTest.xml"));

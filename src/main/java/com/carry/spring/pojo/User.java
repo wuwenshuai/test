@@ -1,19 +1,17 @@
 package com.carry.spring.pojo;
 
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 @Component
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
 public class User {
 
-    String[] users;
-
-
-    public String[] getUsers() {
-        return users;
-    }
-
-    public void setUsers(String[] users) {
-        this.users = users;
-    }
+   private String name;
+   private String id;
 }
